@@ -1,19 +1,10 @@
 # zaprettelegram
 
-> Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+Обновлённая версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
 
-zaprettelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+zaprettelegram возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
 
-## Страницы
-- Сайт: https://delugesmokebungalow.github.io/zaprettelegram/
-- Релиз: https://github.com/delugesmokebungalow/zaprettelegram/releases/latest
-- Исходный код: https://github.com/delugesmokebungalow/zaprettelegram
-- Движок: https://github.com/bol-van/zapret
-
-## Запросы
-- обход блокировки Telegram
-- Telegram не отправляет фото
-- Telegram звонки не работают
-- zapret Telegram
-
-Windows 10/11, без VPN, бесплатно.
+Релиз: https://github.com/delugesmokebungalow/zaprettelegram/releases/latest
+Код: https://github.com/delugesmokebungalow/zaprettelegram
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/delugesmokebungalow/zaprettelegram

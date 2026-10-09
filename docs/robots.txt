@@ -7,6 +7,4 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
-Host: delugesmokebungalow.github.io
-
-Sitemap: https://delugesmokebungalow.github.io/zaprettelegram/sitemap.xml
+Sitemap: https://github.com/delugesmokebungalow/zaprettelegram
